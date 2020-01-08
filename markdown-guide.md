@@ -20,3 +20,8 @@ Lists
 * Item 2
   * Item 2a
   * Item 2b
+
+# Embeding Images
+Guide to Embed Youtube images http://sviridovserg.com/2017/05/22/embed-youtube-to-markdown/
+
+Use Automatic Conversion http://embedyoutube.org/
